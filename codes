@@ -1,0 +1,4 @@
+fname = ("Elizabeth")
+lname = ("Atieno")
+name = fname + " " + lname
+print(name)
